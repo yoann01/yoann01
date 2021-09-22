@@ -1,5 +1,6 @@
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Currently engaged in a master plan to take over the universe!!!
+
 
 - ⚡ ............
 
