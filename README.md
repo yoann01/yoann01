@@ -22,4 +22,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-[![yoann01's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoann01)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/yoann01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoann01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yoann01's github stats" /></a> | <a href="https://github.com/yoann01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
