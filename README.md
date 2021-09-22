@@ -1,8 +1,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 currently working on a spectral pathtracer
-- ⚡ Looking to collaborate ....
+- ⚡ ............
 
 ### Connect with me:
 
