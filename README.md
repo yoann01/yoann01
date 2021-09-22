@@ -18,11 +18,12 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 
+
 ## :zap: GitHub Stats
 
 <summary>💻 GitHub Profile Stats</summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yoann01's Github Stats" src="https://yoann01-github-readme-stats.vercel.app/api/?username=yoann01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yoann01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yoann01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yoann01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
