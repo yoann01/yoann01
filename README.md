@@ -24,7 +24,7 @@
 | <a href="https://github.com/yoann01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoann01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yoann01's github stats" /></a> | <a href="https://github.com/yoann01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann01&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yoann01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github.com/yoann01/github-stats/blob/master/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/yoann01/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/yoann01/github-stats-transparent/output/generated/languages.svg)
+
+
