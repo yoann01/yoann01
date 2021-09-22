@@ -1,10 +1,10 @@
 
 ## Currently engaged in a master plan to take over the universe!!!
 
-[![Linkedin Badge](https://img.shields.io/badge/-yoann_granier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoann01/)](https://www.linkedin.com/in/yoann_granier/)
-[![Twitter Badge](https://img.shields.io/badge/-@yoann_granier-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yoann01)](https://twitter.com/yoann_granier)
-[![Instagram Badge](https://img.shields.io/badge/-@yoann_granier-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yoann_granier/)](https://instagram.com/yoann_granier)
-[![Gmail Badge](https://img.shields.io/badge/-yoann_granier-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ygranier@gmail.com)](mailto:ygranier@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yoann01-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoann01/)](https://www.linkedin.com/in/yoann_granier/)
+[![Twitter Badge](https://img.shields.io/badge/-@yoann01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yoann01)](https://twitter.com/yoann_granier)
+[![Instagram Badge](https://img.shields.io/badge/-@yoann01-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yoann_granier/)](https://instagram.com/yoann_granier)
+[![Gmail Badge](https://img.shields.io/badge/-ygranier-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ygranier@gmail.com)](mailto:ygranier@gmail.com)
 - ⚡ ............
 
 **Connect with me**
